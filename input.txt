@@ -1,0 +1,7 @@
+inicio
+saludar;
+calcular 05;
+calcular 03;
+ale.;
+despedirse;
+fin
